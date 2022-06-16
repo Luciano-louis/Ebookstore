@@ -12,19 +12,19 @@ the Ebookstore allows you to have all the information of books currently for sal
 
 ## Menu Options 
 
-- [Main menu]
-    - [View all currently available books]
-    - [Add a new book to the store]
-    - [View all currently available books]
-    - [Update the Id, Title, Aurthor or Quantity available of any book]
-    - [Remove a book from the store]
-    - [Search the Database for a book]
+- Main menu
+    - View all currently available books
+    - Add a new book to the store
+    - View all currently available books
+    - Update the Id, Title, Aurthor or Quantity available of any book
+    - Remove a book from the store
+    - Search the Database for a book
 
 ## Database values (Sql script file and population included)
-    - [Book Id]
-    - [Book title]
-    - [Author]
-    - [Quantity]
+- Book Id
+- Book title
+- Author
+- Quantity
     
 ## Setup and Configuration
 
